@@ -4,7 +4,7 @@
         # # # # # 
         . # # # . 
         . . # . .
-        `</field><next><block type="synth_set_volume" id=";A|N]9}quO]]J4Sq_A{;"><value name="volume"><shadow type="math_number_minmax" id="1UcDd]!u=~ggOmXI={GO"><mutation min="0" max="255" label="Volume" precision="0"></mutation><field name="SLIDER">50</field></shadow></value><next><block type="device_play_note" id="L`2/40fD.7Gp*BqW.{wl"><value name="note"><shadow type="device_note" id="/38mBooZh6p%^dPfP#xQ"><field name="name">494</field></shadow></value><value name="duration"><shadow type="device_beat" id="-E?0[i3T2nujQlslWetc"><field name="fraction">BeatFraction.Half</field></shadow></value><next><block type="device_show_leds" id="!:DHg35-NbX|NHf6e!0y"><field name="LEDS">`
+        `</field><next><block type="synth_set_volume" id=";A|N]9}quO]]J4Sq_A{;"><value name="volume"><shadow type="math_number_minmax" id="1UcDd]!u=~ggOmXI={GO"><mutation min="0" max="255" label="Volume" precision="0"></mutation><field name="SLIDER">50</field></shadow></value><next><block type="device_play_note" id="L`2/40fD.7Gp*BqW.{wl"><value name="note"><shadow type="device_note" id="/38mBooZh6p%^dPfP#xQ"><field name="name">622</field></shadow></value><value name="duration"><shadow type="device_beat" id="-E?0[i3T2nujQlslWetc"><field name="fraction">BeatFraction.Half</field></shadow></value><next><block type="device_show_leds" id="!:DHg35-NbX|NHf6e!0y"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . # # # . 

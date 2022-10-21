@@ -10,7 +10,7 @@ basic.forever(function () {
         . . # . .
         `)
     music.setVolume(50)
-    music.playTone(494, music.beat(BeatFraction.Half))
+    music.playTone(622, music.beat(BeatFraction.Half))
     basic.showLeds(`
         . . . . .
         . # . # .
